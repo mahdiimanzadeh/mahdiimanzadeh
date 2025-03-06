@@ -26,6 +26,6 @@ Hi There! I'm Mahdi, Currently an independent researcher in Computer Science and
 ## 👨‍🎓 Education  
 ### **B.Sc Computer Engineering**  
 **Khaje Nasir University of Technology**  
-_Graduation: 2022_  
+_Graduation: 2025_  
 
 ## 💻 Open Source Projects
