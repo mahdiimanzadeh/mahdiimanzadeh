@@ -1,16 +1,31 @@
-## Hi there 👋
+# Mahdi Imanzadeh
 
-<!--
-**mahdiimanzadeh/mahdiimanzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi There! I'm Mahdi, Currently an independent researcher in Computer Science and AI  
 
-Here are some ideas to get you started:
+## 📔 Research Interests
+- **Probabilistic Machine Learning**  
+- **Approximate Bayesian Inference** (MCMC, VI)  
+- **Reinforcement Learning & Multi-Agent Systems**  
+- **High-Performance Scientific Computing**  
+- **Parallel and Distributed Programming**  
+- **Simulation**  
+- **Numerical Linear Algebra**
+- **Transfer Learning**
+- **Medical Image Processing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 Technical Skills
+- **Programming**: C, Java, Python  
+  - **GPU Programming**: CUDA  
+  - **Distributed Programming**: MPI  
+- **Deep Learning**: PyTorch, Tensorflow 
+- **Image Processing**: OpenCV  
+- **2D/3D Data Visualization**  
+- **Git, Linux**  
+
+## 👨‍🎓 Education  
+### **B.Sc Computer Engineering**  
+**Khaje Nasir University of Technology**  
+_Graduation: 2022_  
+
+## 💻 Open Source Projects
